@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "343611312538",
+    "project_id": "khareed-le",
+    "storage_bucket": "khareed-le.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343611312538:android:58a2d015fcd03c2fa95223",
+        "android_client_info": {
+          "package_name": "com.ecommerceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343611312538-9nksi7d4rcp3n28g9e7508cqd56qf4lu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ecommerceapp",
+            "certificate_hash": "b0cd5fff488054fff2376d4fbf60e7d04886ab39"
+          }
+        },
+        {
+          "client_id": "343611312538-49779kn8ukmq11vu2pp0kii9b410ihnh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrBWesExDoXhtX1rfwqadd3h6TCePEH7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343611312538-49779kn8ukmq11vu2pp0kii9b410ihnh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

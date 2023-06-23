@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">343611312538-49779kn8ukmq11vu2pp0kii9b410ihnh.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">343611312538</string>
+    <string name="google_api_key" translatable="false">AIzaSyBrBWesExDoXhtX1rfwqadd3h6TCePEH7E</string>
+    <string name="google_app_id" translatable="false">1:343611312538:android:58a2d015fcd03c2fa95223</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBrBWesExDoXhtX1rfwqadd3h6TCePEH7E</string>
+    <string name="google_storage_bucket" translatable="false">khareed-le.appspot.com</string>
+    <string name="project_id" translatable="false">khareed-le</string>
+</resources>
